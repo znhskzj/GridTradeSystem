@@ -17,6 +17,7 @@
 - 确认项目需求和目标。
 - 设置开发环境和版本控制系统。
 
+先在github中进行相关设置
 一、Projects设置:
 issue #1 在github中创建新仓库，创建新项目关联仓库
 在github中创建新仓库“GridTradeSystem”，公开，增加README.MD，使用Apache 2.0协议；
